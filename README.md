@@ -2,12 +2,12 @@
  # **💫 Hi 👋, I'm Aditya Das**
 **I’m currently a front-end developer, working towards becoming a full-stack developer.**
 
-Email Me 👉 ✉️ **adityadas99906@gamil.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **adityadas99906@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Web Dev
 - 🌱 **I’m currently learning:** JS Frameworks 
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** adityadas99906@gamil.com
+- 📫 **How to reach me:** adityadas99906@gmail.com
 - 😄 **Pronouns:** Aditya Das
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
