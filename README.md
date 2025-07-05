@@ -1,6 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/Ubaid2116/Ubaid2116/main/github-ppic.gif)](https://www.deviantart.com/pixeljeff/art/Coding-990517671)
-<img align="right" at="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
-
+![MasterHead](https://www.shutterstock.com/shutterstock/videos/3681406379/thumb/11.jpg?ip=x480)
  # **💫 Hi 👋, I'm Aditya Das**
 **I’m currently a front-end developer, working towards becoming a full-stack developer.**
 
