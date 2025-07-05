@@ -6,7 +6,6 @@ Email Me 👉 ✉️ **adityadas99906@gamil.com** For Collaboration/Project or A
 
 - 🔭 **I’m currently working on:** Web Dev
 - 🌱 **I’m currently learning:** JS Frameworks 
-- 👯 **I’m looking to collaborate on:** JS
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** adityadas99906@gamil.com
 - 😄 **Pronouns:** Aditya Das
