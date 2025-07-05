@@ -14,15 +14,8 @@ Email Me 👉 ✉️ **adityadas99906@gamil.com** For Collaboration/Project or A
 - 😄 **Pronouns:** Aditya Das
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
-## 🏆 GitHub Trophies
-
-
 <!-- Snake Game Repo View -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
-
-# 💻 Tech Stack:
-
