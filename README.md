@@ -22,8 +22,6 @@ Email Me 👉 ✉️ **adityadas99906@gmail.com** For Collaboration/Project or A
 
 # 💻 Tech Stack:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya-das-4707-e" alt="aditya-das-4707-e" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/adityacodeslabs" target="blank"><img src="https://img.shields.io/twitter/follow/adityacodeslabs?logo=twitter&style=for-the-badge" alt="adityacodeslabs" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
