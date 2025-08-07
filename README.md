@@ -1,6 +1,4 @@
-![MasterHead](https://www.shutterstock.com/shutterstock/videos/3681406379/thumb/11.jpg?ip=x480)
-
- # **💫 Hi 👋, I'm Aditya Das**
+# **💫 Hi 👋, I'm Aditya Das**
 **I’m currently a front-end developer, working towards becoming a full-stack developer.**
 
 <img align="right" alt="codingGIF" width="400" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif">
