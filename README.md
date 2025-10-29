@@ -11,12 +11,12 @@ Email: adityadas99906@gmail.com
 
 ## About Me
 
-- Currently working on web development projects
-- Focused on learning modern JavaScript frameworks
-- Open to collaboration and technical support
-- Reachable via email for project proposals or discussions
+- Currently working on DevOps projects, focusing on automation and infrastructure management
+- Learning and implementing CI/CD pipelines, containerization (Docker), and cloud deployment practices
+- Open to collaboration on system optimization, automation scripts, or infrastructure scaling
+- Reachable via email for technical discussions or project proposals
 - Pronouns: Aditya Das
-- Passionate about technology and continuous learning
+- Deeply passionate about technology, reliability engineering, and continuous learning
 
 ---
 
