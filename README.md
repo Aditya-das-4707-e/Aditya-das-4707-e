@@ -6,6 +6,7 @@ I am currently a front-end developer, working towards becoming a full-stack deve
 
 **Contact:**  
 Email: adityadas99906@gmail.com
+Email: adityadas99906@zohomai.in
 
 ---
 
