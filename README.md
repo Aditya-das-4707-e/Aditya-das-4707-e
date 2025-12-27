@@ -5,9 +5,8 @@ I am currently a front-end developer, working towards becoming a full-stack deve
 <img align="right" alt="codingGIF" width="400" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif">
 
 **Contact:**  
-Email: adityadas99906@zohomai.in
-<br>
-Email: adityadas99906@gmail.com
+<p>Email: adityadas99906@zohomai.in</p>
+<p>Email: adityadas99906@gmail.com</p>
 ---
 
 ## About Me
