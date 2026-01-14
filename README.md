@@ -93,6 +93,3 @@ I am currently a front-end developer, working towards becoming a full-stack deve
 </p>
 ---
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-das-4707-e&show_icons=true&locale=en&layout=compact" alt="aditya-das-4707-e" />
-</p>
