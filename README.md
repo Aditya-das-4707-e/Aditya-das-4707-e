@@ -1,95 +1,110 @@
+<div align="center">
+  
 # Hi, I'm Aditya Das
 
-I am currently a front-end developer, working towards becoming a full-stack developer.
+### Cloud Engineer | Aspiring Devops Engineer
 
-<img align="right" alt="codingGIF" width="400" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+Modern+Linux+Tools;DevOps+%26+Cloud+Engineer;Continuous+Learner+%26+Problem+Solver" alt="Typing SVG" />
 
-**Contact:**  
-<p>Email: adityadas99906@zohomai.in</p>
-<p>Email: adityadas99906@gmail.com</p>
----
-
-## About Me
-
-- Currently working on DevOps projects, focusing on automation and infrastructure management
-- Learning and implementing CI/CD pipelines, containerization (Docker), and cloud deployment practices
-- Open to collaboration on system optimization, automation scripts, or infrastructure scaling
-- Reachable via email for technical discussions or project proposals
-- Pronouns: Aditya Das
-- Deeply passionate about technology, reliability engineering, and continuous learning
-
----
-
-<!-- Snake Game Repo View -->
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
-## Tech Stack
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif">
 
-<p align="left">
-  <a href="https://twitter.com/adityacodeslabs" target="blank"><img src="https://img.shields.io/twitter/follow/adityacodeslabs?logo=twitter&style=for-the-badge" alt="adityacodeslabs" /></a>
-</p>
+## Contact
 
----
-
-### Connect with Me
-
-<p align="left">
-  <a href="https://twitter.com/adityacodeslabs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityacodeslabs" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/aditya-das-0887a0352" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-das-0887a0352" height="30" width="40" /></a>
-  <a href="https://instagram.com/itz__adi__o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz__adi__o" height="30" width="40" /></a>
-</p>
+📧 **Email:** adityadas99906@zohomai.in  
+📧 **Email:** adityadas99906@gmail.com
 
 ---
 
-### Languages and Tools
+## 💡 About Me
 
-<p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/PNG/64x64.png" alt="bash" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-</p>
+- Currently working on **DevOps projects**, focusing on automation and infrastructure management
+- Learning and implementing **CI/CD pipelines**, **containerization (Docker)**, and **cloud deployment practices**
+- Open to collaboration on **system optimization**, **automation scripts**, or **infrastructure scaling**
+- Reachable via email for technical discussions or project proposals
+- **Pronouns:** Aditya Das
+- Deeply passionate about **technology**, **reliability engineering**, and **continuous learning**
+
+<br clear="right"/>
+
 ---
 
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Connect with Me
+
+<p>
+  <a href="https://twitter.com/adityacodeslabs" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/aditya-das-0887a0352" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/itz__adi__o" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+<a href="https://twitter.com/adityacodeslabs" target="_blank">
+  <img src="https://img.shields.io/twitter/follow/adityacodeslabs?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter Follow" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ Languages and Tools
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" alt="Frontend Skills" />
+</p>
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,bash" alt="Programming Languages" />
+</p>
+
+### DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,gitlab,linux,jenkins,githubactions" alt="DevOps Tools" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-das-4707-e&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
+</p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-das-4707-e&theme=react-dark&hide_border=true&bg_color=0D1117&color=2F81F7&line=2F81F7&point=FFFFFF" alt="Contribution Graph" width="48%" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+</div>
+
+---
