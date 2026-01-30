@@ -89,11 +89,6 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-das-4707-e&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
-</p>
 
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-das-4707-e&theme=react-dark&hide_border=true&bg_color=0D1117&color=2F81F7&line=2F81F7&point=FFFFFF" alt="Contribution Graph" width="48%" />
