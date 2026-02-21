@@ -80,7 +80,7 @@
 
 ### DevOps & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,gitlab,linux,jenkins,githubactions,dvc" alt="DevOps Tools" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,gitlab,linux,jenkins,githubactions" alt="DevOps Tools" />
 </p>
 
 </div>
