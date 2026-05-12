@@ -15,7 +15,7 @@
 ## Contact
 
 📧 **Email:** adityadas99906@zohomai.in  
-📧 **Email:** adityadas99906@gmail.com
+📧 **Backup Email:** adityadas99906@gmail.com
 
 ---
 
