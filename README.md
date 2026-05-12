@@ -21,12 +21,7 @@
 
 ## 💡 About Me
 
-- Currently working on **DevOps projects**, focusing on automation and infrastructure management
-- Learning and implementing **CI/CD pipelines**, **containerization (Docker)**, and **cloud deployment practices**
-- Open to collaboration on **system optimization**, **automation scripts**, or **infrastructure scaling**
-- Reachable via email for technical discussions or project proposals
-- **Pronouns:** Aditya Das
-- Deeply passionate about **technology**, **reliability engineering**, and **continuous learning**
+I'm a DevOps engineer who loves solving infrastructure challenges through automation and containerization. I work with Kubernetes, Docker, and CI/CD pipelines to build reliable systems that scale. My passion lies in infrastructure automation, reducing manual work, and ensuring smooth production deployments.
 
 <br clear="right"/>
 
